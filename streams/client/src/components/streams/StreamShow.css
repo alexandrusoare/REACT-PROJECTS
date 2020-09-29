@@ -1,0 +1,9 @@
+#comment-section{
+    height: 100%;
+    width: 100%;
+}
+
+.ui.card>.content{
+    flex-grow: 0 !important;
+}
+

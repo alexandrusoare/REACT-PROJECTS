@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Ai si tu dreptatea ta",
+      "id": 2
+    },
+    {
+      "title": "Sokeres Prala",
+      "description": "Sobra Abra Romanes",
+      "userId": "105530950438537151566",
+      "id": 4
+    },
+    {
+      "title": "HAHA",
+      "description": "Eu sunt piratul",
+      "id": 5
+    },
+    {
+      "title": "Tester",
+      "description": "Hasmokar",
+      "userId": "105530950438537151566",
+      "id": 6
+    }
+  ]
+}
